@@ -1,10 +1,15 @@
 ### Well hello there!
 
 To git now or to git later, that is the question.
+
 Whether 'tis nobler to be confined
+
 To saves and updates of local changes,
+
 Or to be pushed to the sea of bit,
+
 And by commiting store them.
+
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
